@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5494741529351835976
+  m_GuidHigh: 13426698890202205114
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4989719562473496284
+      m_GuidHigh: 15727270815099247522
+    m_SerializedTextureGuid:
+      m_GuidLow: 10485747950585878416
+      m_GuidHigh: 17188993315225550761
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: wise4000
+    m_Texture: {fileID: 2800000, guid: 86f39790dc349184a93f955859928bee, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5311107901992973582
+      m_GuidHigh: 378503408668140931
+    m_SerializedTextureGuid:
+      m_GuidLow: 11944712225028346209
+      m_GuidHigh: 13293762375116108264
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: AR_image
+    m_Texture: {fileID: 2800000, guid: 9d149161247ba5c4e8b13f6172ee7cb8, type: 3}
